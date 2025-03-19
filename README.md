@@ -6,7 +6,7 @@
 本指南旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 镜像网站**和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
 
 **ChatGPT 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
-**ChatGPT 镜像网站：[https://chat.lanjing.ai](https://chat.lanjing.ai)**
+**ChatGPT 镜像网站：[https://chat.lanjing.ai](https://chat.lanjing.ai)** 
 
 ---
 
